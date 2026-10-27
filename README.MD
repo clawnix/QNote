@@ -11,7 +11,7 @@ usage:-
 flags :-
     
     -l or --locate => gives the file path
-    -n or --new-project => creates new project 
+    -n or --new-project => creates new project #still working on it  
 
 
     just accepts the first argument as a input 
